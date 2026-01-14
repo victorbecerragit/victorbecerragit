@@ -11,13 +11,31 @@
 ![Vault](https://img.shields.io/badge/vault-%23363636.svg?style=for-the-badge&logo=vault&logoColor=white)![Linkerd](https://img.shields.io/badge/linkerd-%23001b87.svg?style=for-the-badge&logo=linkerd&logoColor=white)<br/>
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)<br/>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+- 🔭 I’m currently working on "kube-s3-operator":
+
+ - https://github.com/victorbecerragit/kube-s3-operator/tree/main/code
+
+ - 🌱 Some repos of POC/Stuff created from projects where I'm been working on : 
+ 
+ - https://github.com/victorbecerragit/argo-minio (GitOps - Argo + Minio implementation)
+ 
+ - https://github.com/victorbecerragit/poc-armor ( Demo Google Armor services on GCP)
+
+ - https://github.com/victorbecerragit/action-docker (GitHub Action - Docker publisher for demos images)
+
+ - https://github.com/victorbecerragit/scripts-work (Compilation of scripts that were usefull on different projects, migrations and so on)
+
+ - https://github.com/victorbecerragit/k8s-monitoring-project (Collection of Monitoring stuff tested, updated to 2025)
+ 
 </details>
 <!--
 **victorbecerragit/victorbecerragit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
+ 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
