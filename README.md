@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 ::: I do ![DevOps-SRE](https://img.shields.io/badge/DevOps-SRE-black) stuff for living :::
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)<br/>
@@ -26,7 +25,10 @@
 
  - https://github.com/victorbecerragit/scripts-work (Compilation of scripts that were usefull on different projects, migrations and so on)
 
- - https://github.com/victorbecerragit/k8s-monitoring-project (Collection of Monitoring stuff tested, updated to 2025)
+ - https://github.com/victorbecerragit/k8s-monitoring-project (Collection of Monitoring stuff tested, updated to 2025
+
+- 👯 I’m looking to collaborate on ...
+ - https://github.com/minio/operator/issues/2501 ( Issue with minIO Operator )
  
 </details>
 <!--
@@ -35,7 +37,6 @@
 Here are some ideas to get you started:
 
 
- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
