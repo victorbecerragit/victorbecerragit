@@ -15,7 +15,9 @@
 
  - https://github.com/victorbecerragit/kube-s3-operator/tree/main/code
 
- - 🌱 Some repos of POC/Stuff created from projects where I'm been working on : 
+ - 🌱 Some repos of POC/Stuff created from projects where I'm been working on :
+ 
+ - https://github.com/victorbecerragit/eks-cdk-argocd-showcase (A production-ready "IaC" showcase that build EKS using AWS CDK and GitOps principles)
  
  - https://github.com/victorbecerragit/argo-minio (GitOps - Argo + Minio implementation)
  
