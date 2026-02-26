@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on "kube-s3-operator":
 
- - https://github.com/victorbecerragit/kube-s3-operator/tree/main/code
+ - https://github.com/victorbecerragit/kube-s3-operator/tree/main
 
  - 🌱 Some repos of POC/Stuff created from projects where I'm been working on :
  
