@@ -19,7 +19,7 @@
  
  - https://github.com/victorbecerragit/eks-cdk-argocd-showcase (A production-ready "IaC" showcase that build EKS using AWS CDK and GitOps principles)
  
- - https://github.com/victorbecerragit/argo-minio (GitOps - Argo + Minio implementation)
+ - https://github.com/victorbecerragit/argo-minio (GitOps - Argo + MinIO implementation)
  
  - https://github.com/victorbecerragit/poc-armor ( Demo Google Armor services on GCP)
 
