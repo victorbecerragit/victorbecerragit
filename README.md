@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on "kube-s3-operator and nginx-migration-shell":
 
- - https://github.com/victorbecerragit/kube-s3-operator/tree/main
+ - https://github.com/victorbecerragit/kube-s3-operator/tree/main (A simple Kubernetes operator for managing AWS S3 buckets using native Kubernetes resources)
  
  - https://github.com/victorbecerragit/ingress-migration-shell-operator
 
