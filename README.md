@@ -15,7 +15,7 @@
 
  - https://github.com/victorbecerragit/kube-s3-operator/tree/main (A simple Kubernetes operator for managing AWS S3 buckets using native Kubernetes resources)
  
- - https://github.com/victorbecerragit/ingress-migration-shell-operator
+ - https://github.com/victorbecerragit/ingress-migration-shell-operator ( Ingress Migration Shell Operator )
 
  - 🌱 Some repos of POC/Stuff created from projects where I'm been working on :
  
