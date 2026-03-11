@@ -25,7 +25,7 @@
  
  - https://github.com/victorbecerragit/poc-armor ( Demo Google Armor services on GCP)
 
- - https://github.com/victorbecerragit/action-docker (GitHub Action - Docker publisher for demos images , Weekly - Kubernetes Vulnerabilities report using SerpApi)
+ - https://github.com/victorbecerragit/action-docker (GitHub Action - Docker publisher for demos images like auth-webhooks, kubectl ctl, serp-api, mcp-scraper , Weekly - Kubernetes Vulnerabilities report using SerpApi)
 
  - https://github.com/victorbecerragit/scripts-work (Compilation of scripts that were usefull on different projects, migrations and so on)
 
