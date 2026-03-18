@@ -1,6 +1,7 @@
 ## Hi there 👋
 ::: I do ![DevOps-SRE](https://img.shields.io/badge/DevOps-SRE-black) stuff for living :::
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br/>
 ![NVIDIA AI](https://img.shields.io/badge/NVIDIA_AI-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)<br/>
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)<br/>
 ![github](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)![Gitlab](https://img.shields.io/badge/gitlab-%23e0b580.svg?style=for-the-badge&logo=gitlab&logoColor=white)![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)
@@ -10,7 +11,7 @@
 <br/>
 ![Vault](https://img.shields.io/badge/vault-%23363636.svg?style=for-the-badge&logo=vault&logoColor=white)![Linkerd](https://img.shields.io/badge/linkerd-%23001b87.svg?style=for-the-badge&logo=linkerd&logoColor=white)<br/>
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)<br/>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 - 🔭 I’m currently working on "kube-s3-operator and nginx-migration-shell":
 
