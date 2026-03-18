@@ -1,6 +1,7 @@
 ## Hi there 👋
 ::: I do ![DevOps-SRE](https://img.shields.io/badge/DevOps-SRE-black) stuff for living :::
 
+![NVIDIA AI](https://img.shields.io/badge/NVIDIA_AI-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)<br/>
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)<br/>
 ![github](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)![Gitlab](https://img.shields.io/badge/gitlab-%23e0b580.svg?style=for-the-badge&logo=gitlab&logoColor=white)![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)
 <br/>
