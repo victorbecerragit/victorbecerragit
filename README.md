@@ -13,8 +13,16 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)<br/>
 
 
-- 🔭 I’m currently working on "kube-s3-operator and nginx-migration-shell":
+- 🔭 I’m currently working/playing ":
 
+ - https://github.com/victorbecerragit/ai-cli (Python CLI chat client built from browser-visible AI endpoint discovery with AI chat capabilities)
+
+ - https://github.com/victorbecerragit/runbook-labs (Runbooks labs from LLM, RAG, BedRock)
+
+ - https://github.com/victorbecerragit/branch-change-audit (AI skill for audit changes)
+
+ - https://github.com/victorbecerragit/scrap-jobs#weekly-job-results (Scrapping devops jobs)
+ 
  - https://github.com/victorbecerragit/kube-s3-operator/tree/main (A simple Kubernetes operator for managing AWS S3 buckets using native Kubernetes resources)
  
  - https://github.com/victorbecerragit/ingress-migration-shell-operator ( Ingress Migration Shell Operator )
