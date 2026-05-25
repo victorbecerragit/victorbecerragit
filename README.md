@@ -13,7 +13,7 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)<br/>
 
 
-- 🔭 I’m currently working/playing ":
+🔭 I’m currently working/playing ":
 
  - https://github.com/victorbecerragit/ai-cli (Python CLI chat client built from browser-visible AI endpoint discovery with AI chat capabilities)
 
@@ -21,14 +21,17 @@
 
  - https://github.com/victorbecerragit/branch-change-audit (AI skill for audit changes)
 
- - https://github.com/victorbecerragit/scrap-jobs#weekly-job-results (Scrapping devops jobs)
+ - https://github.com/victorbecerragit/java-k8s-troubleshooting-lab (A hands-on, minimal troubleshooting environment for diagnosing JVM memory, thread, process, and lifecycle issues under Kubernetes constraints) 
  
- - https://github.com/victorbecerragit/kube-s3-operator/tree/main (A simple Kubernetes operator for managing AWS S3 buckets using native Kubernetes resources)
+ - https://github.com/victorbecerragit/kube-s3-operator (A simple Kubernetes operator for managing AWS S3 buckets using native Kubernetes resources)
  
  - https://github.com/victorbecerragit/ingress-migration-shell-operator ( Ingress Migration Shell Operator )
-
- - 🌱 Some repos of POC/Stuff created from projects where I'm been working on :
  
+
+🌱 Some repos of POC/Stuff created from projects where I'm been working on :
+
+ - https://github.com/victorbecerragit/scrap-jobs#weekly-job-results (Scrapping devops jobs)
+  
  - https://github.com/victorbecerragit/eks-cdk-argocd-showcase (A production-ready "IaC" showcase that build EKS using AWS CDK and GitOps principles)
  
  - https://github.com/victorbecerragit/argo-minio (GitOps - Argo + MinIO implementation)
@@ -41,7 +44,7 @@
 
  - https://github.com/victorbecerragit/k8s-monitoring-project (Collection of Monitoring stuff tested, updated to 2025
 
-- 👯 I’m looking to collaborate on ...
+👯 I’m looking to collaborate on ...
  - https://github.com/minio/operator/issues/2501 ( Issue with minIO Operator )
  
 </details>
