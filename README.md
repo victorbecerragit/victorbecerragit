@@ -15,15 +15,17 @@
 
 🔭 I’m currently working/playing ":
 
+ - https://github.com/victorbecerragit/secure-multi-cluster-oidc-k8s (DevSecOps portfolio project showing secure multi-cluster Kubernetes access with OIDC federation, RBAC, and GitHub Actions OIDC.)
+
+ - https://github.com/victorbecerragit/kube-s3-operator (A simple Kubernetes operator for managing AWS S3 buckets using native Kubernetes resources)
+
+ - https://github.com/victorbecerragit/java-k8s-troubleshooting-lab (A hands-on, minimal troubleshooting environment for diagnosing JVM memory, thread, process, and lifecycle issues under Kubernetes constraints) 
+ 
  - https://github.com/victorbecerragit/ai-cli (Python CLI chat client built from browser-visible AI endpoint discovery with AI chat capabilities)
 
  - https://github.com/victorbecerragit/runbook-labs (Runbooks labs from LLM, RAG, BedRock)
 
  - https://github.com/victorbecerragit/branch-change-audit (AI skill for audit changes)
-
- - https://github.com/victorbecerragit/java-k8s-troubleshooting-lab (A hands-on, minimal troubleshooting environment for diagnosing JVM memory, thread, process, and lifecycle issues under Kubernetes constraints) 
- 
- - https://github.com/victorbecerragit/kube-s3-operator (A simple Kubernetes operator for managing AWS S3 buckets using native Kubernetes resources)
    
  - https://github.com/victorbecerragit/GitHub-Actions-Runbook ( An internal tool for storing and looking up operational runbooks for CI/CD pipelines. Built for DevOps and SRE teams who need fast access to step-by-step procedures during incidents. )
  
