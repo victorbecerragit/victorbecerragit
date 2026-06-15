@@ -15,6 +15,8 @@
 
 🔭 I’m currently working/playing ":
 
+ - https://github.com/victorbecerragit/project-payment-gateway ( Payment Gateway Integration with OpenAPI & Kubernetes - Demo integrated with stripe Provider)
+   
  - https://github.com/victorbecerragit/secure-multi-cluster-oidc-k8s (DevSecOps portfolio project showing secure multi-cluster Kubernetes access with OIDC federation, RBAC, and GitHub Actions OIDC.)
 
  - https://github.com/victorbecerragit/kube-s3-operator (A simple Kubernetes operator for managing AWS S3 buckets using native Kubernetes resources)
