@@ -33,7 +33,7 @@
 
  - https://github.com/victorbecerragit/branch-change-audit (AI skill for audit changes)
    
- - https://github.com/victorbecerragit/GitHub-Actions-Runbook ( An internal tool for storing and looking up operational runbooks for CI/CD pipelines. Built for DevOps and SRE teams who need fast access to step-by-step procedures during incidents. )
+ - https://github.com/victorbecerragit/GitHub-Actions-Runbook ( An internal tool for storing and looking up operational runbooks for CI/CD pipelines. Built for DevOps and SRE teams who need fast access to step-by-step procedures during incidents. Live demo with cloudflare Workers - https://victorbecerragit.github.io/GitHub-Actions-Runbook/  )
  
 
 🌱 Some repos of POC/Stuff created from projects where I'm been working on :
