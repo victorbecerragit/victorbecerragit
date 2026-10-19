@@ -19,6 +19,8 @@
 
 🔭 I’m currently working/playing ":
 
+- https://github.com/victorbecerragit/vllm-inference-platform/tree/main ( Local-first LLM inference platform using CPU mode (zero cloud cost) )
+
  - https://github.com/victorbecerragit/project-payment-gateway ( Payment Gateway Integration with OpenAPI & Kubernetes - Demo integrated with stripe Provider)
    
  - https://github.com/victorbecerragit/secure-multi-cluster-oidc-k8s (DevSecOps portfolio project showing secure multi-cluster Kubernetes access with OIDC federation, RBAC, and GitHub Actions OIDC.)
