@@ -19,7 +19,15 @@
 
 🔭 I’m currently working/playing ":
 
-- https://github.com/victorbecerragit/vllm-inference-platform/tree/main ( Local-first LLM inference platform using CPU mode (zero cloud cost) )
+ - https://github.com/victorbecerragit/k8s-gpu-telemetry-stack (Production-grade observability bootstrap "Helm chart umbrella" for GPU-accelerated Kubernetes clusters.)
+
+ - https://github.com/victorbecerragit/vllm-inference-platform/tree/main ( Local-first LLM inference platform using CPU mode (zero cloud cost) )
+  
+ - https://github.com/victorbecerragit/ai-cli (Python CLI chat client built from browser-visible AI endpoint discovery with AI chat capabilities)
+
+ - https://github.com/victorbecerragit/runbook-labs (Runbooks labs from LLM, RAG, BedRock)
+
+ - https://github.com/victorbecerragit/branch-change-audit (AI skill for audit changes)
 
  - https://github.com/victorbecerragit/project-payment-gateway ( Payment Gateway Integration with OpenAPI & Kubernetes - Demo integrated with stripe Provider)
    
@@ -28,12 +36,6 @@
  - https://github.com/victorbecerragit/kube-s3-operator (A simple Kubernetes operator for managing AWS S3 buckets using native Kubernetes resources)
 
  - https://github.com/victorbecerragit/java-k8s-troubleshooting-lab (A hands-on, minimal troubleshooting environment for diagnosing JVM memory, thread, process, and lifecycle issues under Kubernetes constraints) 
- 
- - https://github.com/victorbecerragit/ai-cli (Python CLI chat client built from browser-visible AI endpoint discovery with AI chat capabilities)
-
- - https://github.com/victorbecerragit/runbook-labs (Runbooks labs from LLM, RAG, BedRock)
-
- - https://github.com/victorbecerragit/branch-change-audit (AI skill for audit changes)
    
  - https://github.com/victorbecerragit/GitHub-Actions-Runbook ( An internal tool for storing and looking up operational runbooks for CI/CD pipelines. Built for DevOps and SRE teams who need fast access to step-by-step procedures during incidents. Live demo with cloudflare Workers - https://victorbecerragit.github.io/GitHub-Actions-Runbook/  )
  
@@ -64,7 +66,6 @@
 **victorbecerragit/victorbecerragit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
